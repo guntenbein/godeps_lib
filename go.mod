@@ -1,3 +1,3 @@
-module godeps_lib
+module lib
 
 go 1.14
