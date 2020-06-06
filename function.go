@@ -1,7 +1,7 @@
 package godeps_lib
 
 import (
-	"godeps_lib/summ"
+	"godeps.lib/summ"
 )
 
 func Summ(a, b int) int {
