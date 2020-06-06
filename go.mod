@@ -1,3 +1,3 @@
-module any.one/godeps_lib
+module godeps_lib
 
 go 1.14
